@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Page-TestRepo/static/css/main.3a824d2f.css",
+    "main.js": "/Page-TestRepo/static/js/main.3beeef98.js",
+    "index.html": "/Page-TestRepo/index.html",
+    "main.3a824d2f.css.map": "/Page-TestRepo/static/css/main.3a824d2f.css.map",
+    "main.3beeef98.js.map": "/Page-TestRepo/static/js/main.3beeef98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a824d2f.css",
+    "static/js/main.3beeef98.js"
+  ]
+}
