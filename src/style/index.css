@@ -1,0 +1,27 @@
+@import "./reset.css";
+
+.container{
+    
+    height:calc(100vh-60px);
+}
+
+
+.container flexbox{
+    display: flex;
+    justify-content: center;
+}
+
+.navigation{
+    display: flex;
+}
+
+header{
+    display: flex;
+}
+
+.navigation ul{
+    display: flex;
+    gap: 20px;
+    
+    
+}
